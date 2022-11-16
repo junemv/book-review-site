@@ -2,10 +2,11 @@
     max-width: 200px;
 }
 
-ul{
+ul li{
     display: inline;
+    padding-left: 40px;
 }
 
-contact{
-    text-align: right;
+nav div{
+    text-align: center;
 }
